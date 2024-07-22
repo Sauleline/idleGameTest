@@ -6,10 +6,14 @@ Let's make a game!
 Settings
   no particles
   no bulk particles
-*song
-  name:Song
-  desc:This is a song
-*guitar
-  name:Guitar
-  desc:Play a **Song**
-  on click:yeild 1 song
+Layout
+  use default
+Resources
+  *song
+    name:Song
+    desc:This is a song
+Buttons
+  *guitar
+    name:Guitar
+    desc:Play a **Song**
+    on click:yeild 1 song
