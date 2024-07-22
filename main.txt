@@ -26,4 +26,6 @@ Buildings
     cost:10 song
   *pinkerton
     name:Pinkerton
-	desc:The best one (in my opinion)
+	desc:The best one (in my opinion)</>Gives 1 <b>Songs</b> per second
+	cost:100 song
+	on tick:yield 1 song
