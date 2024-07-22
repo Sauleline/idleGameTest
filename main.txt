@@ -21,5 +21,6 @@ Buttons
 Buildings
   *blue
     name:Blue Album
-    desc:Where it all started<\>Gives 0.1 **Songs** per second
-    on tick:yield 0.1 song
+    desc:Where it all started<\>Gives 1 **Songs** per second
+    on tick:yield 1 song
+    cost:10 song
