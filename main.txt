@@ -38,7 +38,7 @@ Buildings
 Upgrades
   *guitar1
     name:Better Guitar
-    desc:makes your <b>Guitar</b> 100% better
+    desc:Buy a new guitar. </>Multiplies your gain from <b>Guitar</b> by 2.
     passive:multiply yield of guitar by 2
     cost:200
     req:50 song
