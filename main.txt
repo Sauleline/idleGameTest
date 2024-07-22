@@ -13,7 +13,6 @@ Resources
     name:Song
     desc:This is a song. 
     show earned
-  (thingKey:ps)
 Buttons
   *guitar
     name:Guitar
