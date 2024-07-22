@@ -38,6 +38,6 @@ Buildings
 Upgrades
   *guitar1
     name:Better Guitar
-	desc:makes your <b>Guitar</b> 50% better
-	passive:multiply yield of guitar by 1.5
-	cost:200
+    desc:makes your <b>Guitar</b> 50% better
+    passive:multiply yield of guitar by 1.5
+    cost:200
