@@ -34,7 +34,7 @@ Buildings
     desc:The best one (in my opinion)</>Gives 1 <b>Songs</b> per second
     cost:100 song
     on tick:yield 1 song
-    req:10 blue and 75 song:max
+    req:10 blue and 75 song:earned
 
 Upgrades
   *guitar1
@@ -42,4 +42,4 @@ Upgrades
     desc:Buy a new guitar. </>Multiplies your gain from <b>Guitar</b> by 2.
     passive:multiply yield of guitar by 2
     cost:200 song
-    req:50 song
+    req:50 song:earned
