@@ -1,0 +1,15 @@
+Let's make a game!
+  name:Weezer Clicker
+  by:Sauleline
+  created:22/07/2024
+  version:1
+Settings
+  no particles
+  no bulk particles
+*song
+  name:Song
+  desc:This is a song
+*guitar
+  name:Guitar
+  desc:Play a **Song**
+  on click:yeild 1 song
