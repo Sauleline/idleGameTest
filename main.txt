@@ -34,6 +34,7 @@ Buildings
     desc:The best one (in my opinion)</>Gives 1 <b>Songs</b> per second
     cost:100 song
     on tick:yield 1 song
+	req:10 blue and 75 song
 
 Upgrades
   *guitar1
