@@ -13,8 +13,14 @@ Resources
     name:Song
     desc:This is a song. 
     show earned
+  (thingKey:ps)
 Buttons
   *guitar
     name:Guitar
     desc:Play a **Song**
     on click:yield 1 song
+Buildings
+  *blue
+    name:Blue Album
+    desc:Where it all started<\>Gives 0.1 **Songs** per second
+    on tick:yield 0.1 song
