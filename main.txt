@@ -16,4 +16,4 @@ Buttons
   *guitar
     name:Guitar
     desc:Play a **Song**
-    on click:yeild 1 song
+    on click:yield 1 song
