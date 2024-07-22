@@ -41,3 +41,4 @@ Upgrades
     desc:makes your <b>Guitar</b> 100% better
     passive:multiply yield of guitar by 2
     cost:200
+    req:50 song
