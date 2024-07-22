@@ -2,22 +2,27 @@ Let's make a game!
   name:Weezer Clicker
   by:Sauleline
   created:22/07/2024
-  version:1
+  version:1.01
+
 Settings
   no particles
   no bulk particles
+
 Layout
   use default
+
 Resources
   *song
     name:Song
     desc:This is a song. 
     show earned
+
 Buttons
   *guitar
     name:Guitar
     desc:Play a <b>Song</b>
     on click:yield 1 song
+
 Buildings
   *blue
     name:Blue Album
@@ -29,3 +34,10 @@ Buildings
     desc:The best one (in my opinion)</>Gives 1 <b>Songs</b> per second
     cost:100 song
     on tick:yield 1 song
+
+Upgrades
+  *instruments1
+    name:Better Instruments
+	desc:makes Blue Album 50% better
+	passive:multiply yield of blue by 1.5
+	cost:200
