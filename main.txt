@@ -11,7 +11,8 @@ Layout
 Resources
   *song
     name:Song
-    desc:This is a song
+    desc:This is a song. 
+    show earned
 Buttons
   *guitar
     name:Guitar
